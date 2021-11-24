@@ -1,1 +1,1 @@
-# alitk14.ecommerce.github.io
+A Ecommerce Home page implemented from scratch using HTML,CSS,JS,JQuery.
